@@ -1,0 +1,14 @@
+body {
+  background: #d6d5d5;
+}
+
+.blocks {
+  display: flex;
+}
+
+.block {
+  width: 20px;
+  height: 80px;
+  border: 1px solid black;
+  background: #fff;
+}
